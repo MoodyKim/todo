@@ -1,3 +1,1 @@
-# New Project
-
-> ✨ TODO List with TypeScript
+# ✨ TODO List with TypeScript
